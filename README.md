@@ -1,5 +1,5 @@
 # 🎓 University Course Registration System
-
+12/2023
 ![Language](https://img.shields.io/badge/Language-Java-red)
 ![Type](https://img.shields.io/badge/Type-Console%20Application-lightgrey)
 ![Logic](https://img.shields.io/badge/Key%20Concept-OOP%20%26%20Algorithms-blue)
@@ -17,4 +17,5 @@ This project simulates a real-world university course registration scenario. It 
 * **IntelliJ IDEA** (Development Environment)
 
 ---
+
 *This repository demonstrates my ability to understand and build software logic, which supports my data analysis workflow.*
